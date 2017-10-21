@@ -1,0 +1,11 @@
+# Node
+node_modules/
+yarn.lock
+package-lock.json
+npm-debug.log
+
+# Mac
+.DS_Store
+
+# Misc
+tmp/
